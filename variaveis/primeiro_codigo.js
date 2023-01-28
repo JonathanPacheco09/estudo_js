@@ -1,6 +1,6 @@
 var nome = "Jonathan"
-console.log("o nome do usuario é: "+nome)
+console.log("O nome do usuario é: "+nome)
 var idade = 23
-console.log("a idade do usuario é: "+idade)
+console.log("A idade do usuario é: "+idade)
 var altura = 1.67
-console.log("a altura do usuario é: "+altura)
+console.log("A altura do usuario é: "+altura)
