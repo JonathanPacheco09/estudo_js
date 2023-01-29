@@ -4,7 +4,7 @@ var idade = 23
 console.log("A idade do usuario é: "+idade)
 var altura = 1.67
 console.log("A altura do usuario é: "+altura)
-var cpf = "xxx-xxx-xxx-xx"
+var cpf = "199.982.963-27"
 console.log("O cpf do usuario é: "+cpf)
 var carro ="Dodge ram 2500"
 console.log("O carro do usuario é: "+carro)
