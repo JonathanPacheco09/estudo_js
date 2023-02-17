@@ -1,3 +1,4 @@
+//revisar o projeto
 var idade = 19
 console.log("idade é :" + idade)
 if(idade < 18){
