@@ -1,4 +1,4 @@
 var nome = function(nome){
-    return console.log(nome)
+    return nome
 }
 module.exports = nome 
